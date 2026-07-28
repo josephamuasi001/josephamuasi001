@@ -150,3 +150,160 @@ Hobbies:
 ⭐ **"Every great application starts with one line of code."**
 
 </p>
+
+<!-- ========================================================= -->
+<!--                    TECH STACK                             -->
+<!-- ========================================================= -->
+
+# 🛠️ Tech Stack
+
+I enjoy working across the full software development lifecycle—from designing user interfaces to building secure backends and managing databases.
+
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql" />
+</p>
+
+---
+
+## ⚛️ Frontend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,js" />
+</p>
+
+✔ Responsive Web Design
+
+✔ Modern UI Development
+
+✔ Component-Based Architecture
+
+✔ REST API Integration
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,php" />
+</p>
+
+✔ REST APIs
+
+✔ CRUD Applications
+
+✔ Authentication
+
+✔ Backend Logic
+
+✔ Database Integration
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,supabase" />
+</p>
+
+Experienced with
+
+- Relational Database Design
+- SQL Queries
+- Data Modeling
+- CRUD Operations
+- Database Integration
+
+---
+
+## 🎨 UI / UX Design
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+Design Interests
+
+- User Experience
+- User Interface Design
+- Wireframing
+- Prototyping
+- Responsive Layouts
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+Daily Development Workflow
+
+- Version Control with Git
+- GitHub Collaboration
+- API Testing
+- Debugging
+- Code Reviews
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,docker,linux" />
+</p>
+
+Currently expanding my knowledge in:
+
+- Software Engineering
+- System Design
+- Clean Architecture
+- Docker
+- Linux
+- Java
+- Cloud Technologies
+
+---
+
+# 🚀 Development Philosophy
+
+```text
+Plan
+   │
+   ▼
+Design
+   │
+   ▼
+Develop
+   │
+   ▼
+Test
+   │
+   ▼
+Deploy
+   │
+   ▼
+Improve
+```
+
+> **"Good software isn't just built—it is carefully designed, tested, and continuously improved."**
+
+---
+
+# 🎯 Core Principles
+
+🧩 Write clean, maintainable code.
+
+🚀 Build solutions that solve real problems.
+
+📖 Never stop learning.
+
+🤝 Collaborate and share knowledge.
+
+🔒 Prioritize security and reliability.
+
+🌍 Create software with meaningful impact.
