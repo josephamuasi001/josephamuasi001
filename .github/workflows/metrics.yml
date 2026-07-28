@@ -5,22 +5,24 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
-      - name: Generate Metrics
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
-
           token: ${{ secrets.METRICS_TOKEN }}
-
           user: josephamuasi001
+
+          filename: github-metrics.svg
 
           template: classic
 
