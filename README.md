@@ -238,6 +238,25 @@ Modern interfaces built with Figma
 
 ![](https://raw.githubusercontent.com/josephamuasi001/josephamuasi001/output/github-contribution-grid-snake.svg)
 
+
+
+## 📈 GitHub Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephamuasi001&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josephamuasi001&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josephamuasi001&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephamuasi001&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josephamuasi001&theme=tokyonight&utcOffset=0" />
+</p>
+
+
 </div>
 
 ---
