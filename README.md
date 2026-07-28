@@ -1,270 +1,152 @@
-<div align="center">
+<!-- ==================== HEADER ==================== -->
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Joseph Amuasi
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Joseph%20Amuasi&fontAlign=50&fontAlignY=40&fontSize=55&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&animation=fadeIn" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Software+Engineering+Student;React+%7C+FastAPI+%7C+PHP+Developer;Building+Real-World+Applications;Always+Learning+New+Technologies" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=👋+Hello%2C+I'm+Joseph+Amuasi;Software+Engineering+Student;Full+Stack+Developer;Backend+Developer;Building+Real-World+Applications;Passionate+About+FinTech;Always+Learning+New+Technologies;Building+Solutions+With+Integrity" alt="Typing SVG" />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/josephamuasi001">
+<img src="https://img.shields.io/github/followers/josephamuasi001?label=Followers&style=for-the-badge&color=0ea5e9"/>
+</a>
+
+<a href="https://github.com/josephamuasi001?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=josephamuasi001&style=for-the-badge&color=blueviolet"/>
+
+</p>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=josephamuasi001&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+# 👨‍💻 About Me
 
-<a href="https://github.com/josephamuasi001">
-<img src="https://img.shields.io/github/followers/josephamuasi001?label=Followers&style=for-the-badge"/>
-</a>
+I'm **Joseph Amuasi**, a **Software Engineering student** and **Full Stack Developer** passionate about transforming ideas into real-world software solutions.
 
-<a href="https://github.com/josephamuasi001">
-<img src="https://img.shields.io/github/stars/josephamuasi001?affiliations=OWNER&style=for-the-badge"/>
-</a>
+I enjoy designing, building, and improving applications that solve practical problems while continuously expanding my knowledge of modern software engineering principles.
 
-</div>
+My interests span across **backend development**, **full-stack web applications**, **system design**, **UI/UX**, and **FinTech solutions**.
+
+I believe software should not only work—but also be **clean**, **maintainable**, **secure**, and **user-friendly**.
+
+> **"Building software with integrity, curiosity, and continuous improvement."**
 
 ---
 
-# 💫 About Me
+# 🚀 What I'm Currently Working On
 
-```javascript
-const joseph = {
+- 🎓 Studying **Software Engineering**
+- 💻 Building **Full Stack Web Applications**
+- 🏦 Developing **Banking & Financial Systems**
+- 🌐 Creating **Modern Responsive Websites**
+- 🔗 Designing and Building **REST APIs**
+- 🎨 Improving **UI/UX Design Skills**
+- 📚 Learning **Software Architecture & Best Practices**
+- 🚀 Continuously improving my development workflow
 
-    location: "Ghana",
+---
 
-    role: "Full Stack Developer",
+# 🌱 Current Learning Journey
 
-    education: "Software Engineering Student",
+```text
+Frontend Development      ████████████████████░░ 90%
 
-    currentlyLearning: [
-        "React",
-        "FastAPI",
-        "System Design",
-        "Cloud",
-        "Docker"
-    ],
+Backend Development       ███████████████████░░░ 88%
 
-    askMeAbout: [
-        "PHP",
-        "Python",
-        "React",
-        "REST APIs",
-        "Supabase",
-        "MySQL"
-    ],
+Database Design           ██████████████████░░░░ 85%
 
-    hobbies: [
-        "Coding",
-        "UI Design",
-        "Problem Solving",
-        "Learning"
-    ],
+Software Engineering      ███████████████████░░░ 88%
 
-    motto: "Build • Learn • Improve • Repeat"
-}
+System Design             ███████████████░░░░░░░ 75%
+
+UI / UX Design            █████████████████░░░░░ 80%
 ```
 
 ---
 
-# 🚀 Current Focus
+# 💡 What Drives Me
 
-- 🔥 Building Full Stack Applications
-- 💳 Banking & Finance Systems
-- 🌐 REST API Development
-- ⚛ Modern React Applications
-- ☁ Learning Cloud Technologies
-- 🧠 Improving Software Architecture Skills
+✨ Build solutions that solve real-world problems.
 
----
+🚀 Continuously learn modern technologies.
 
-# 🛠 Tech Stack
+🧠 Write clean, scalable, and maintainable code.
 
-## Languages
+🤝 Collaborate with developers and contribute to impactful projects.
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=php,python,javascript,html,css,mysql"/>
-
-</p>
-
-## Frameworks
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,fastapi,vite"/>
-
-</p>
-
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=josephamuasi001&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephamuasi001&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=josephamuasi001&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=josephamuasi001&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=josephamuasi001&theme=tokyo-night"/>
-
----
-
-# 💻 Featured Projects
-
-### 💳 Mini Banking App
-
-> PHP + MySQL Banking Application
-
-✔ Authentication
-
-✔ Deposit
-
-✔ Withdrawal
-
-✔ Transfers
-
-✔ Transaction History
-
----
-
-### ✅ Task Management System
-
-React + FastAPI + Supabase
-
-✔ CRUD
-
-✔ REST API
-
-✔ Responsive UI
-
-✔ Task Filtering
-
-✔ Deployment
-
----
-
-### 🎨 UI/UX Designs
-
-Modern interfaces built with Figma
-
-- Responsive
-- User Friendly
-- Design Systems
+🌍 Build software that creates meaningful value.
 
 ---
 
 # 🎯 2026 Goals
 
-- ✅ Build Real-World Applications
-- ✅ Master React
-- ✅ Master FastAPI
-- 🔄 Learn Docker
-- 🔄 Learn AWS
-- 🔄 Learn Kubernetes
-- 🔄 Open Source Contributions
-- 🔄 Build SaaS Products
+- ✅ Master Full Stack Development
+- ✅ Build Production-Ready Applications
+- ✅ Strengthen Software Engineering Principles
+- ✅ Learn Cloud & DevOps Technologies
+- ✅ Explore AI Integration in Web Applications
+- ✅ Contribute to Open Source Projects
+- ✅ Grow as a Professional Software Engineer
 
 ---
 
-# ⚡ Fun Facts
+# 💬 Fun Facts
 
-- 🐛 Debugging is my superpower.
-- 💡 Every bug teaches something new.
-- 🚀 I love building software that solves real problems.
-- 🎯 Consistency beats motivation.
+```yaml
+Name: Joseph Amuasi
+
+Education:
+  - Software Engineering Student
+
+Interests:
+  - Full Stack Development
+  - Backend Engineering
+  - FinTech
+  - UI/UX Design
+  - Software Architecture
+
+Current Mission:
+  Building software that makes people's lives easier.
+
+Motto:
+  "Build. Break. Learn. Repeat."
+
+Hobbies:
+  - Coding
+  - Learning
+  - Problem Solving
+  - Tech Communities
+```
 
 ---
 
-# 📫 Connect With Me
+<p align="center">
 
-<p align="left">
-
-<a href="mailto:jamuasi001@st.ug.edu.gh">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/joseph-amuasi">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+### 🤝 Let's Connect
 
 <a href="https://github.com/josephamuasi001">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/joseph-amuasi">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:jamuasi001@st.ug.edu.gh">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💭 Developer Quote
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-> *(Animation will appear here after Part 2)*
-
-![](https://raw.githubusercontent.com/josephamuasi001/josephamuasi001/output/github-contribution-grid-snake.svg)
-
-
-
-## 📈 GitHub Summary
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephamuasi001&theme=tokyonight" />
+
+⭐ **"Every great application starts with one line of code."**
+
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josephamuasi001&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josephamuasi001&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephamuasi001&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josephamuasi001&theme=tokyonight&utcOffset=0" />
-</p>
-
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Thanks for visiting my profile!
-
-If you enjoy my work, consider following me.
-
-</div>
