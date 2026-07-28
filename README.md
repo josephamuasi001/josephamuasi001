@@ -1,80 +1,156 @@
-# 🌟 Joseph Amuasi – Developer, Problem Solver, Creator 🚀
+# Hi there, I'm Joseph Amuasi 👋
 
-Hey there! 👋 I’m **Joseph**, a passionate programmer focused on **building real-world applications, solving problems, and creating with integrity**. Every line of code I write comes from my own **knowledge, research, and curiosity** 💡.
+### Full-Stack Developer | Software Engineering Student | Problem Solver
 
----
+I enjoy building software that solves real-world problems through clean code, thoughtful design, and continuous learning.
 
-## 💻 What I Do
-
-- **Real-World Applications:** Building software that solves everyday problems.  
-- **Problem Solving:** Tackling challenges efficiently and creatively.  
-- **Integrity in Coding:** Writing clean, reliable, maintainable code.  
-- **Continuous Learning:** Exploring new languages, frameworks, and tools to grow as a developer.  
+My focus is creating practical applications—from modern web platforms and REST APIs to financial systems and productivity tools. Every project is an opportunity to learn something new and improve my skills as a developer.
 
 ---
 
-## 🌱 Current Focus
+## 🚀 About Me
 
-Right now, I’m diving deep into:
+* 💻 Full-Stack Web Developer
+* 🎓 Software Engineering Student
+* 🌱 Always learning new technologies and best practices
+* 🧠 Passionate about problem solving and software architecture
+* 🤝 Open to collaboration and open-source contributions
 
-- 💸 Banking and finance applications  
-- 🛠️ Web-based utilities and tools  
-- 📱 Full-stack projects with a focus on **user experience and functionality**  
-
----
-
-## 🔥 Featured Projects
-
-Here are some of my proudest work:
-
-1. **Mini Banking App 💳** – PHP + MySQL full-stack app with **deposit, withdrawal, transfer, and transaction history**.  
-2. **Web Utilities 🛠️** – Small tools designed to solve daily problems efficiently.  
-3. **Full-Stack Web Apps 🌐** – Projects combining **frontend and backend technologies** for interactive user experiences.  
-
-> More projects coming soon! 🚀
+> **"Build. Learn. Improve. Repeat."**
 
 ---
 
-## 🛠️ Skills & Tools
+# 🛠 Tech Stack
 
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Frontend
 
----
+* React
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Vite
 
-## 📚 Learning Journey
+### Backend
 
-- Started with **scripts and console apps** 🖥️  
-- Progressed to **web development** 🌐  
-- Exploring **finance, utility, and automation projects** 💡  
-- Constantly **experimenting, building, and improving** 🚀  
+* FastAPI
+* PHP
+* REST APIs
 
-> My motto: **“Build, Break, Learn, Repeat”**  
+### Database
 
----
+* MySQL
+* Supabase
 
-## 🎮 Fun Facts
+### Tools
 
-- Debugging is my superpower ⚡  
-- I love turning **creative ideas into usable software** ✨  
-- Every bug teaches a new lesson 📖  
-- Enjoy coding challenges and competitions 🏆  
-
----
-
-## 🌐 Connect With Me
-
-I’m always open to collaboration, feedback, or just chatting about tech!  
-
-- GitHub: [https://github.com/josephamuasi001](https://github.com/josephamuasi001)  
-- LinkedIn: [Joseph Amuasi](https://www.linkedin.com/in/joseph-amuasi)  
-- Email: [jamuasi001@st.ug.edu.gh](mailto:jamuasi001@st.ug.edu.gh)  
+* Git
+* GitHub
+* VS Code
+* Figma
+* Postman
 
 ---
 
-💡 **“Building solutions, one line of code at a time, with integrity, creativity, and passion.”**
+# 🚀 Featured Projects
+
+## 💳 Mini Banking Application
+
+A PHP & MySQL banking system featuring:
+
+* User authentication
+* Deposits
+* Withdrawals
+* Money transfers
+* Transaction history
+* Secure database integration
+
+---
+
+## ✅ Task Management System
+
+A complete full-stack application built with:
+
+* React + Vite
+* FastAPI
+* Supabase
+* CRUD operations
+* Task filtering
+* Task editing
+* Responsive interface
+* REST API integration
+
+---
+
+## 🎨 UI/UX Design Projects
+
+Creating modern, user-friendly interfaces using Figma with an emphasis on:
+
+* Responsive layouts
+* Accessibility
+* Clean design systems
+* User experience
+
+---
+
+## 🛠 Utility Projects
+
+Small applications built to automate everyday tasks and improve productivity.
+
+More projects are continuously being added.
+
+---
+
+# 📚 Currently Learning
+
+I'm continuously improving my knowledge in:
+
+* Advanced React
+* Backend architecture
+* Authentication & Authorization
+* Database design
+* API development
+* Software engineering principles
+* System design
+* Cloud deployment
+
+---
+
+# 🎯 Goals
+
+* Build production-ready full-stack applications
+* Contribute to open-source projects
+* Master scalable backend development
+* Learn cloud technologies
+* Grow into a professional software engineer
+
+---
+
+# 📊 GitHub Stats
+
+<!-- GitHub Readme Stats -->
+
+<!-- Add your preferred GitHub stats cards here -->
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email:** [jamuasi001@st.ug.edu.gh](mailto:jamuasi001@st.ug.edu.gh)
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/joseph-amuasi
+
+💻 **GitHub**
+https://github.com/josephamuasi001
+
+---
+
+## 💭 Developer Philosophy
+
+I believe great software is built through curiosity, consistency, and continuous improvement.
+
+Every project teaches something new, every bug is an opportunity to learn, and every line of code is a step toward becoming a better engineer.
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
