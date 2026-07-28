@@ -307,3 +307,508 @@ Improve
 🔒 Prioritize security and reliability.
 
 🌍 Create software with meaningful impact.
+
+
+<!-- ========================================================= -->
+<!--                 GITHUB ANALYTICS                          -->
+<!-- ========================================================= -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <i>My GitHub journey in numbers 📈</i>
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=josephamuasi001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephamuasi001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=josephamuasi001&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=josephamuasi001&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=josephamuasi001&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📅 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/58a6ff/josephamuasi001" />
+
+</p>
+
+---
+
+## 📊 GitHub Highlights
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+🚀
+
+### Full Stack Development
+
+Building scalable applications using modern frontend and backend technologies.
+
+</td>
+
+<td align="center">
+
+🏦
+
+### FinTech
+
+Developing secure banking and financial management systems.
+
+</td>
+
+<td align="center">
+
+🎨
+
+### UI / UX
+
+Creating clean, modern, and user-friendly interfaces.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+⚡
+
+### Performance
+
+Focused on writing efficient, maintainable, and scalable code.
+
+</td>
+
+<td align="center">
+
+📚
+
+### Continuous Learning
+
+Always exploring new technologies and software engineering practices.
+
+</td>
+
+<td align="center">
+
+🤝
+
+### Collaboration
+
+Open to contributing, learning, and working with other developers.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 📌 Development Activity
+
+```text
+Backend Development      █████████████████████░   95%
+
+Frontend Development     ███████████████████░░░   90%
+
+UI / UX Design           ████████████████░░░░░░   80%
+
+Software Engineering     ██████████████████░░░░   88%
+
+Database Design          █████████████████░░░░░   84%
+
+Problem Solving          ██████████████████████   100%
+```
+
+---
+
+## 💡 Engineering Mindset
+
+```text
+Think
+
+↓
+
+Design
+
+↓
+
+Develop
+
+↓
+
+Debug
+
+↓
+
+Test
+
+↓
+
+Deploy
+
+↓
+
+Improve
+
+↓
+
+Repeat
+```
+
+> **"Consistency beats intensity. Small improvements every day build exceptional software."**
+
+---
+
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
+
+# 💼 Featured Projects
+
+> Here are some of the projects that represent my journey as a Software Engineering student and Full Stack Developer.
+
+---
+
+## 💳 Mini Banking System
+
+A secure banking application developed using **PHP** and **MySQL**, demonstrating core banking operations and backend development concepts.
+
+### 🚀 Features
+
+- 👤 User Authentication
+- 💰 Deposit Funds
+- 💸 Withdraw Funds
+- 🔄 Transfer Money
+- 📜 Transaction History
+- 🏦 Account Management
+- 🔒 Secure Database Operations
+
+### 🛠️ Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css,js"/>
+
+</p>
+
+**Repository**
+
+> *(Add repository link here)*
+
+**Live Demo**
+
+> *(Coming Soon)*
+
+---
+
+## ✅ Full Stack Task Management System
+
+A modern task management application built with **React**, **FastAPI**, and **Supabase** that allows users to manage daily tasks efficiently.
+
+### 🚀 Features
+
+- ➕ Create Tasks
+- ✏️ Edit Tasks
+- ❌ Delete Tasks
+- ✅ Mark Complete
+- 🔍 Filter Tasks
+- 🌐 REST API Integration
+- ☁️ Cloud Database
+
+### 🛠️ Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,vite,python,fastapi,supabase"/>
+
+</p>
+
+**Repository**
+
+> *(Add repository link here)*
+
+**Backend API**
+
+> *(Add Render URL)*
+
+---
+
+## 🎨 Women for Women Medical Associates Website Redesign
+
+A UI/UX redesign project focused on improving usability, accessibility, responsiveness, and visual hierarchy using **Figma**.
+
+### 🚀 Improvements
+
+- Modern Homepage
+- Better Visual Hierarchy
+- Responsive Layout
+- Better CTA Placement
+- Improved Typography
+- Better User Experience
+
+### 🛠️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+</p>
+
+**Design File**
+
+> *(Add Figma Link)*
+
+---
+
+## 🌐 Personal Portfolio & Web Projects
+
+A collection of responsive websites, UI concepts, and frontend experiments created while learning and practicing modern web development.
+
+### 🚀 Focus Areas
+
+- Responsive Design
+- Landing Pages
+- Business Websites
+- Interactive Interfaces
+- Accessibility
+- Performance Optimization
+
+### 🛠️ Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+
+</p>
+
+---
+
+# 🏆 Highlights
+
+<table>
+
+<tr>
+
+<td align="center">
+
+💻
+
+### Full Stack
+
+Building complete web applications from frontend to backend.
+
+</td>
+
+<td align="center">
+
+🏦
+
+### Banking
+
+Developing secure banking systems with real-world features.
+
+</td>
+
+<td align="center">
+
+⚡
+
+### REST APIs
+
+Designing scalable APIs using FastAPI.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+🎨
+
+### UI / UX
+
+Creating clean and user-friendly interfaces.
+
+</td>
+
+<td align="center">
+
+🗄️
+
+### Database
+
+Designing relational databases using MySQL and Supabase.
+
+</td>
+
+<td align="center">
+
+📚
+
+### Continuous Learning
+
+Always improving my knowledge of Software Engineering.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📚 Current Roadmap
+
+```text
+✅ HTML & CSS
+
+✅ JavaScript
+
+✅ PHP
+
+✅ MySQL
+
+✅ Git & GitHub
+
+✅ React
+
+✅ FastAPI
+
+✅ Supabase
+
+🟡 Java
+
+🟡 Docker
+
+🟡 Linux
+
+🟡 Cloud Computing
+
+🟡 System Design
+
+🟡 DevOps
+
+🔵 AI Integration
+
+🔵 Mobile Development
+```
+
+---
+
+# 🎯 2026 Mission
+
+```text
+Continue Learning
+
+        │
+
+        ▼
+
+Build Better Applications
+
+        │
+
+        ▼
+
+Contribute to Open Source
+
+        │
+
+        ▼
+
+Become a Professional Software Engineer
+
+        │
+
+        ▼
+
+Build Software That Makes An Impact
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/josephamuasi001">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/joseph-amuasi">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:jamuasi001@st.ug.edu.gh">
+
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/josephamuasi001/josephamuasi001/output/github-contribution-grid-snake.svg">
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</p>
