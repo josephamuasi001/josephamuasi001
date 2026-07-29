@@ -1,140 +1,181 @@
-<!-- ========================================= -->
-<!--            GITHUB PROFILE README           -->
-<!-- ========================================= -->
+<!-- ===================================================== -->
+<!--                JOSEPH AMUASI GITHUB PROFILE            -->
+<!-- ===================================================== -->
 
-<h1 align="center">Hi 👋, I'm Joseph Amuasi</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineering Student • Full-Stack Web Developer
-</h3>
+# 👋 Hi, I'm Joseph Amuasi
 
-<p align="center">
-Building modern web applications with clean UI, scalable backend systems,
-and a passion for continuous learning.
+### Full-Stack Developer • Software Engineering Student
+
+<p>
+I build clean, responsive, and scalable web applications while continuously
+improving my software engineering skills through real-world projects.
 </p>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Software+Engineering+Student;React+%7C+FastAPI+%7C+Supabase;Building+Projects+That+Matter;Always+Learning+Something+New"/>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineering+Student;React+%7C+FastAPI+%7C+Supabase;Always+Learning+Something+New" />
-</p>
+</div>
 
 ---
 
 # 💫 About Me
 
-```text
-🎓 Software Engineering Student
+<img align="right" width="320" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true">
 
-💻 Full-Stack Web Developer
+### 👨‍💻 Who Am I?
 
-🌱 Learning Software Engineering,
-   System Design & Cloud Technologies
+- 🎓 Software Engineering Student
+- 💻 Full-Stack Web Developer
+- 🌍 Passionate about Web Technologies
+- 🎨 UI/UX Enthusiast
+- 🚀 REST API Developer
+- 📚 Lifelong Learner
 
-🎨 Passionate about UI/UX
+### 🌱 Currently Learning
 
-🚀 Building projects that solve
-   real-world problems
+- Software Architecture
+- Cloud Computing
+- Backend Engineering
+- Design Patterns
+- System Design
 
-📚 Learning by building.
-```
+<br>
 
 ---
 
 # 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,react,fastapi,mysql,supabase,git,github,vscode,figma" />
+## Languages
 
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,php"/>
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+## Database
+
+<img src="https://skillicons.dev/icons?i=mysql,supabase"/>
+
+## Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-### ✅ Full Stack Task Management App
+## ✅ Full Stack Task Management App
 
-- React
-- FastAPI
-- Supabase
-- CRUD Operations
-- REST API
-- Responsive Design
+> React • FastAPI • Supabase
 
----
+✔ Complete CRUD Operations
 
-### 🌐 Responsive Business Websites
+✔ REST API Integration
 
-Modern, responsive websites built with
-clean UI principles and user-focused design.
+✔ Responsive Design
+
+✔ Clean UI
+
+✔ Backend Deployment
 
 ---
 
-### 🎨 UI/UX Design
+## 🌐 Modern Responsive Websites
 
-Wireframes, prototypes and modern interfaces
-created with Figma.
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+Designed and developed responsive business websites
+focused on usability, accessibility and clean design.
 
 ---
 
-<p align="center">
+## 🎨 UI/UX Design
 
-<img
-src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
+Creating modern interfaces and prototypes
+using Figma with a focus on user experience.
 
 ---
 
-# 🌱 Currently Learning
+# 📊 GitHub Analytics
 
-- Software Architecture
-- Backend Development
-- REST APIs
-- Database Design
-- Cloud Deployment
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🤝 Connect With Me
+# 🏆 Achievements
 
-<p align="left">
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=vercel"/>
+<img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-> **Build • Learn • Improve • Repeat**
+### 💡 Philosophy
 
-</p>
+> **"Great software is built one thoughtful commit at a time."**
+
+---
+
+⭐ *Thanks for visiting my profile.*
+
+</div>
