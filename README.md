@@ -138,7 +138,7 @@ using Figma with a focus on user experience.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=josephamuasi001&theme=github-dark"/>
 
 </div>
 
