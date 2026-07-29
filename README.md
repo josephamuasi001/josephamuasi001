@@ -1,86 +1,51 @@
-<!-- ========================================================= -->
-<!--                    JOSEPH AMUASI                          -->
-<!-- ========================================================= -->
+<!-- ========================================= -->
+<!--            GITHUB PROFILE README           -->
+<!-- ========================================= -->
+
+<h1 align="center">Hi 👋, I'm Joseph Amuasi</h1>
+
+<h3 align="center">
+Software Engineering Student • Full-Stack Web Developer
+</h3>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Joseph%20Amuasi&fontSize=55&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn"/>
+Building modern web applications with clean UI, scalable backend systems,
+and a passion for continuous learning.
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=👋+Hello+World!;Software+Engineering+Student;Full+Stack+Developer;Backend+Developer;Building+Real-World+Applications;Always+Learning+🚀"/>
-</p>
+<br>
 
 <p align="center">
-<a href="https://github.com/josephamuasi001">
-<img src="https://img.shields.io/github/followers/josephamuasi001?style=for-the-badge&logo=github"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=josephamuasi001&style=for-the-badge&color=blueviolet"/>
-
-<a href="https://www.linkedin.com/in/joseph-amuasi">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:jamuasi001@st.ug.edu.gh">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Software+Engineering+Student;React+%7C+FastAPI+%7C+Supabase;Always+Learning+Something+New" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-```ts
-const joseph = {
-  role: "Software Engineer",
-  education: "BSc Software Engineering",
-  location: "Ghana 🇬🇭",
-  focus: [
-    "Full Stack Development",
-    "Backend APIs",
-    "FinTech",
-    "UI / UX"
-  ],
-  currentlyLearning: [
-    "Java",
-    "Docker",
-    "Cloud Computing"
-  ],
-  motto: "Build • Learn • Improve 🚀"
-}
+```text
+🎓 Software Engineering Student
+
+💻 Full-Stack Web Developer
+
+🌱 Learning Software Engineering,
+   System Design & Cloud Technologies
+
+🎨 Passionate about UI/UX
+
+🚀 Building projects that solve
+   real-world problems
+
+📚 Learning by building.
 ```
 
 ---
 
-# ⚒️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,php,python,fastapi,mysql,supabase,git,github,vscode,figma,postman"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=josephamuasi001&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephamuasi001&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=josephamuasi001&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=josephamuasi001&theme=tokyo-night&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,php,react,fastapi,mysql,supabase,git,github,vscode,figma" />
 
 </p>
 
@@ -88,56 +53,80 @@ const joseph = {
 
 # 🚀 Featured Projects
 
-| Project | Stack |
-|---------|-------|
-| 💳 **Mini Banking System** | PHP • MySQL • HTML • CSS • JavaScript |
-| ✅ **Task Management App** | React • FastAPI • Supabase |
-| 🎨 **Women for Women Medical Associates UI/UX** | Figma |
-| 🌐 **Web Development Projects** | HTML • CSS • JavaScript • React |
+### ✅ Full Stack Task Management App
 
-### 🔗 Explore
-
-- 💳 Banking System → **YOUR_BANKING_REPO**
-- ✅ Task Manager → **YOUR_TASK_REPO**
-- 🎨 Figma Design → **YOUR_FIGMA_LINK**
-- 📂 All Projects → https://github.com/josephamuasi001?tab=repositories
+- React
+- FastAPI
+- Supabase
+- CRUD Operations
+- REST API
+- Responsive Design
 
 ---
 
-# 🏆 GitHub Trophies
+### 🌐 Responsive Business Websites
+
+Modern, responsive websites built with
+clean UI principles and user-focused design.
+
+---
+
+### 🎨 UI/UX Design
+
+Wireframes, prototypes and modern interfaces
+created with Figma.
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=josephamuasi001&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🐍 Contributions
-
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/josephamuasi001/josephamuasi001/output/github-contribution-grid-snake.svg"/>
+<img
+src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🤝 Connect
+# 🌱 Currently Learning
 
-<p align="center">
+- Software Architecture
+- Backend Development
+- REST APIs
+- Database Design
+- Cloud Deployment
 
-<a href="https://github.com/josephamuasi001">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/joseph-amuasi">
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:jamuasi001@st.ug.edu.gh">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
 </p>
@@ -146,12 +135,6 @@ const joseph = {
 
 <p align="center">
 
-> **"Build • Learn • Improve."**
-
-</p>
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+> **Build • Learn • Improve • Repeat**
 
 </p>
