@@ -108,9 +108,9 @@ using Figma with a focus on user experience.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=josephamuasi001E&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephamuasi001&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -118,7 +118,7 @@ using Figma with a focus on user experience.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=josephamuasi001E&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -128,7 +128,7 @@ using Figma with a focus on user experience.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=josephamuasi001&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -154,7 +154,7 @@ using Figma with a focus on user experience.
 
 &nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:jamuasi001@st.ug.edu.gh">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
