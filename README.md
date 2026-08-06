@@ -43,139 +43,30 @@ improving my software engineering skills through real-world projects.
 <br>
 
 ---
+# 💫 About Me:
+👋 About Me<br><br>Hello! I'm a Computer Science student with a passion for software engineering and full-stack web development. I enjoy learning new technologies, solving real-world problems, and building applications that improve my programming skills while creating meaningful user experiences. I believe that the best way to grow as a developer is through consistent practice, curiosity, and hands-on projects.<br><br>🔭 I'm currently working on Urban Bite, a full-stack restaurant ordering and management system built with React, FastAPI, and Supabase. Through this project, I'm gaining practical experience in frontend development, backend APIs, database design, authentication, and software architecture. I also work on university software engineering projects that help strengthen my understanding of design principles, testing, and collaborative development.<br><br>🌱 I'm currently learning modern full-stack development, with a focus on React, Python, FastAPI, RESTful API development, database management, Git, GitHub, and software engineering best practices. As I continue my journey, I'm committed to writing cleaner code, improving my problem-solving skills, and exploring new tools and technologies that make development more efficient.<br><br>👯 I'm looking forward to collaborating with other students, beginner-friendly open-source communities, and developers who enjoy building practical solutions. I believe collaboration is one of the fastest ways to learn, exchange ideas, and develop better software, and I'm always excited to contribute to meaningful projects while learning from others.<br><br>💬 Ask me about Python, React, FastAPI, Git, GitHub, software engineering concepts, or my experience as a Computer Science student building full-stack applications from the ground up. I'm always happy to discuss what I'm learning, share ideas, or connect with fellow developers.<br><br>⚡ Fun fact: I enjoy challenging myself by building complete projects from scratch because every project teaches me something new. Whether it's debugging a difficult issue, learning a new framework, or improving a user interface, I see every challenge as an opportunity to grow into a better software engineer.<br><br>Thanks for stopping by my profile! Feel free to explore my repositories, follow my journey, or reach out if you'd like to connect or collaborate.
 
-# 🛠 Tech Stack
 
-<div align="center">
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Joseph Amuasi ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ambassador_fiifi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Joseph Amuasi ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TheCREATIFKOFI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamuasi001@st.ug.edu.gh) 
 
-## Languages
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=josephamuasi001&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=josephamuasi001&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=josephamuasi001&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,php"/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=josephamuasi001&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
-## Frontend
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<img src="https://skillicons.dev/icons?i=react"/>
-
-## Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-
-## Database
-
-<img src="https://skillicons.dev/icons?i=mysql,supabase"/>
-
-## Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=josephamuasi001&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=josephamuasi001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🚀 Featured Projects
-
-## ✅ Full Stack Task Management App
-
-> React • FastAPI • Supabase
-
-✔ Complete CRUD Operations
-
-✔ REST API Integration
-
-✔ Responsive Design
-
-✔ Clean UI
-
-✔ Backend Deployment
-
----
-
-## 🌐 Modern Responsive Websites
-
-Designed and developed responsive business websites
-focused on usability, accessibility and clean design.
-
----
-
-## 🎨 UI/UX Design
-
-Creating modern interfaces and prototypes
-using Figma with a focus on user experience.
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=josephamuasi001E&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephamuasi001&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=josephamuasi001E&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=josephamuasi001&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=josephamuasi001&theme=github-dark"/>
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:jamuasi001@st.ug.edu.gh">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=vercel" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Philosophy
-
-> **"Great software is built one thoughtful commit at a time."**
-
----
-
-⭐ *Thanks for visiting my profile.*
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
