@@ -2,72 +2,209 @@
 
 # 👋 Hi, I'm Joseph Amuasi
 
-### Full-Stack Developer • UI/UX Designer • Software Engineering Student
+### Full-Stack Developer • Software Engineering Student
 
-<p align="center">
-  Building clean, responsive, and scalable web applications while architecting modern full-stack systems with FastAPI, Supabase, and React.
+<p>
+I build modern, responsive, and scalable web applications with a focus on
+clean UI, practical solutions, and continuous learning.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+UI%2FUX+Designer;React+%7C+FastAPI+%7C+Supabase+PostgreSQL;Architecting+VOTERA+%26+CampusShield;Building+Scalable+Web+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Software+Engineering+Student;React+%7C+FastAPI+%7C+Supabase;UI%2FUX+Enthusiast;Building+Projects+That+Matter;Always+Learning+Something+New"/>
+
+<p>
+  <a href="https://github.com/josephamuasi001">
+    <img src="https://img.shields.io/github/followers/josephamuasi001?label=Followers&style=for-the-badge&logo=github">
+  </a>
+  <a href="https://github.com/josephamuasi001?tab=repositories">
+    <img src="https://img.shields.io/github/stars/josephamuasi001?label=Stars&style=for-the-badge&logo=github">
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-<img align="right" width="300" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Developer Coding GIF">
+<img align="right" width="300" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true">
 
-- 👨‍💻 **Role:** Software Engineering Student & Full-Stack Developer
-- 🎨 **Focus:** Crafting modern digital brand identities, UI/UX design systems, and robust backend APIs
-- 🚀 **Featured Projects:** - **VOTERA:** Digital voting and election management platform
-  - **CampusShield:** University campus security incident management platform
-- 🌱 **Currently Elevating:** System Architecture, Cloud Computing, Database Optimization, and Design Patterns
+👨‍💻 **Software Engineering Student**
+💻 **Full-Stack Web Developer**
+🎨 **UI/UX Enthusiast**
+🚀 **REST API Developer**
+🌍 Passionate about building useful web applications
+📚 Always learning and improving
+🤝 Open to collaboration and meaningful projects
 
----
+### 🌱 Currently Exploring
 
-## 💻 Tech Stack & Tools
+* Software Architecture
+* Backend Engineering
+* System Design
+* Cloud Computing
+* Design Patterns
+* Scalable Web Applications
+* Better UI/UX Practices
 
-### 🌐 Frontend & UI/UX
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### ⚙️ Backend & Databases
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🚀 Deployment & Tools
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+<br clear="right"/>
 
 ---
 
-## 📊 GitHub Analytics
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### ⚛️ Frontend
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge\&logo=react-router\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+
+### ⚙️ Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)
+
+### 🗄️ Databases
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### 🎨 Design & Development Tools
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+
+### ☁️ Deployment & Services
+
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge\&logo=render\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7)
+
+---
+
+# 🚀 Featured Projects
+
+### 🗳️ Votera
+
+A digital voting and election management platform designed for organizations, universities, schools, clubs, and associations.
+
+**Stack:** React • FastAPI • Supabase
+
+**Currently working with:**
+
+* Election management
+* Election-scoped administration
+* Candidate and position management
+* Voter management
+* Voting workflows
+* Results management
+* Role-based access control
+* Paystack payment integration
+* Hubtel SMS/OTP integration
+* Resend email integration
+
+---
+
+### 🍔 Urban Bite
+
+A modern restaurant management and ordering system focused on providing a smooth digital experience for customers and restaurant operations.
+
+**Focus:** Full-Stack Development • UI/UX • Responsive Web Design
+
+---
+
+### 📋 Task Management System
+
+A full-stack task management application built to practice real-world frontend and backend development.
+
+**Stack:** React • FastAPI • Supabase
+
+**Focus:** REST APIs • Database Integration • CRUD Operations • Deployment
+
+---
+
+### 🏥 Women for Women Medical Associates
+
+A website redesign project focused on improving the organization's digital presence through better information architecture, usability, responsiveness, and modern UI/UX.
+
+**Focus:** Figma • UI/UX • Responsive Design • Frontend Development
+
+---
+
+# 🎨 Design Philosophy
+
+I enjoy creating interfaces that are:
+
+* ✨ Clean and modern
+* 📱 Responsive across devices
+* 🧩 Simple and intuitive
+* ⚡ Fast and practical
+* 🎨 Visually polished
+* ♿ Designed with usability in mind
+
+I'm particularly interested in **modern glassmorphism / liquid-style interfaces** while keeping the overall experience simple and usable.
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=josephamuasi001&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<br/>
-<img src="https://streak-stats.demolab.com/?user=josephamuasi001&theme=radical&hide_border=false" alt="GitHub Streak" />
-<br/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=josephamuasi001&theme=radical&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api?username=josephamuasi001&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=josephamuasi001&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=josephamuasi001&theme=radical&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=josephamuasi001&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=josephamuasi001&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+
+</div>
+
+---
+
+# ✍️ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in learning, collaborating, building new projects,
+and connecting with other developers.
+
+**Let's build something meaningful. 🚀**
 
 </div>
 
@@ -75,11 +212,8 @@
 
 <div align="center">
 
-### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=josephamuasi001&color=blueviolet&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=josephamuasi001&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
+
+<!-- Proudly created and maintained by Joseph Amuasi -->
